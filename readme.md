@@ -1,4 +1,3 @@
 # Leetcode
-This is my first readme.
 
-LOL
+This is my first readme.
